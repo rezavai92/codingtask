@@ -9,6 +9,5 @@ function  task (arr,number){
 }
 
 console.log(task([1,2,3,4],2))
-a =[1,2,3,4]
-n=2
+
 
